@@ -11,7 +11,7 @@
 
 | 网站                                                                  | 免费试用      | 可用ChatGPT？ | 费用          | 客服  | 推荐         |
 | ------------------------------------------------------------------- | --------- | ---------- | ----------- | --- | ---------- |
-| [八方云](https://cn.bafangyun.vip/#/register?code=av6z5liR)            | 3小时1G     | 可以         | 5元1T/月      | 电报  |            |
+| [八方云](https://cn.bafangyun.vip/#/register?code=av6z5liR)            | 3小时1G     | 可以         | 5元1T/月      | 电报  |       便宜    |
 | [宝贝云](https://v3ssy.xyz/#/register?code=taklZfoO)                   | 1天2G流量    | 可以         | 15元-1024G/月 | 电报群 | 我正在使用的就是这个 |
 | [红杏](https://v2hx.xyz/#/register?code=pTYLvORd)                     | 无         | 未知         |             | 提工单 | 未使用        |
 | [桔子云](https://juzi69.com/auth/register?code=2QjJ)                   | 无         | 未知         | 20元-100G/月  | 工单  | <br>       |
